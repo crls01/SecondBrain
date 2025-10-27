@@ -69,3 +69,7 @@ grep "palabra" archivo      # Busca texto dentro de archivo
 ping 8.8.8.8                # Verifica conectividad
 ip addr show                # Muestra interfaces y direcciones IP
 ifconfig                    # informacion de red
+
+
+```
+
